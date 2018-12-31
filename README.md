@@ -5,7 +5,7 @@ With Attributes:
 - Name text with spaces
 - National ID unique value (text) for each employee
 - Salary static double value of 1500 pounds
-- Gender character holds f or m
+- Gender String holds female or male
 - Available_vacations initially starts with 15 days
 - Deduction_per_day static double value of 85.5pounds
 - Available_permission_hours initially starts with 20 hours
